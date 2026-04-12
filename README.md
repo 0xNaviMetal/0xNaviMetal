@@ -1,72 +1,67 @@
-<!-- ████████████████████████████████████████████████████████████████ -->  
-<!--                        HEADER BOOT SEQUENCE                      -->  
-<!-- ████████████████████████████████████████████████████████████████ -->  
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a2/22/e7/a222e705bfa7875960010eb305c451b6.gif" width="100%" alt="Cyberpunk Anime Hacker Header" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3300&pause=900&color=7B2FBE&center=true&vCenter=true&width=700&lines=welcome+to+Slimane+Boucetta's+world;an+embedded+systems+developer." alt="Typing SVG" />
+<div align="center">
 
-<div align="center">  
-  <img src="https://i.pinimg.com/originals/a2/22/e7/a222e705bfa7875960010eb305c451b6.gif" width="100%" alt="Cyberpunk Anime Hacker Header" />  
-  <br/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&width=700&lines=%3E_+Talking+directly+to+the+silicon...;%5B+0xFF+%5D+Bare-Metal+C+%7C+STM+%7C+AVR+%7C+ARM;%5B+0xFE+%5D+FPGA+%26+Custom+PCB+Design;%5B+0xFD+%5D+Embedded+Linux+%26+Firmware+Dev;%5B+0xFC+%5D+OTA+%7C+IoT+%7C+OSI+Stack;%5B+0xFB+%5D+DSP+%26+Embedded+Security" alt="Typing SVG" />  
-  <br/><br/>  
-  <img src="https://img.shields.io/badge/%3E__SYSTEM-ONLINE-4169E1?style=flat-square&labelColor=0D0D0D&color=4169E1" />  
-  <img src="https://img.shields.io/badge/MODE-BARE__METAL-7B2FBE?style=flat-square&labelColor=0D0D0D&color=7B2FBE" />  
-  <img src="https://img.shields.io/badge/ARCH-ARM_%7C_AVR_%7C_STM-00008B?style=flat-square&labelColor=0D0D0D&color=00008B" />  
-</div>  
 
-<br/>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=500&color=4169E1&background=000000FF&center=true&vCenter=true&width=700&lines=%3E_+Talking+directly+to+the+silicon...;%3E_+Bare-metal+C%2FC%2B%2B+for+ARM%2C+AVR%2C+MIPS;%3E_+Custom+FPGA+%26+PCB+Design;%3E_+Embedded+Linux+%26+Real-Time+Systems;%3E_+IoT%2FOTA+%26+Security+Architecture)](https://github.com/0xNaviMetal)
 
----  
+  <img src="https://img.shields.io/badge/%3E__SYSTEM-ONLINE-4169E1?style=flat-square&labelColor=0D0D0D&color=4169E1" />
+  <img src="https://img.shields.io/badge/MODE-BARE__METAL-7B2FBE?style=flat-square&labelColor=0D0D0D&color=7B2FBE" />
+  <img src="https://img.shields.io/badge/ARCH-ARM_%7C_AVR_%7C_MIPS-00008B?style=flat-square&labelColor=0D0D0D&color=00008B" />
 
-<!-- ████████████████████████████████████████████████████████████████ -->  
-<!--                    [ 0x00 ] // INIT_PROFILE                      -->  
-<!-- ████████████████████████████████████████████████████████████████ -->  
-
-## `[ 0x00 ]` ⫸ `INIT_PROFILE`  
-
-<table>  
-  <tr>  
-    <td width="38%" align="center" valign="top">  
-      <img src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif" width="100%" alt="Anime Hacker GIF" style="border-radius:8px;" />  
-      <br/><br/>  
-      <img src="https://i.redd.it/prww682ozdi91.gif" width="90%" alt="Hacker Witch CRT GIF" style="border-radius:8px;" />  
-    </td>  
-    <td width="62%" valign="top">  
-      <blockquote>  
-        <h3>❖ &nbsp; EEE Student &nbsp;❖&nbsp; Embedded Hardware &amp; Firmware Developer &nbsp;❖&nbsp; Embedded Security Enthusiast</h3>  
-        <br/>  
-        <p>  
-          <code>&gt;_</code> &nbsp; I do not rely on HAL layers or abstractions;<br/>  
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I talk directly to the <strong>silicon</strong>.  
-        </p>  
-        <br/>  
-        <p>My work lives at the intersection of bare-metal programming, custom PCB design, embedded Linux, OTA pipelines, IoT infrastructure, and security-first firmware.</p>  
-        <br/>  
-        <ul>  
-          <li>⫸ Bare-metal C/C++ across STM, AVR, and ARM targets.</li>  
-          <li>⫸ FPGA logic, sensor integration, and analog/digital hardware.</li>  
-          <li>⫸ Custom PCB design, SMPS, and board bring-up workflows.</li>  
-          <li>⫸ Embedded Linux, firmware pipelines, and OTA delivery.</li>  
-          <li>⫸ IoT systems, networking layers, and OSI-aware design.</
 
 ---
 
 
 
-<div align="center">
+**EEE Student  ❖  Embedded Hardware & Firmware Developer  ❖  Embedded Security Enthusiast**
 
-**[ SILICON & HARDWARE DESIGN ]**<br>
-<img src="https://img.shields.io/badge/STM_%7C_AVR_%7C_ARM-00008B?style=for-the-badge&logo=microchip&logoColor=white" />
-<img src="https://img.shields.io/badge/FPGA-1A1A1A?style=for-the-badge&logo=cpu&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/PCB_Design-000000?style=for-the-badge&logo=altiumdesigner&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Analog_%26_Digital-1A1A1A?style=for-the-badge&logo=circuitverse&logoColor=4169E1" />
+> I do not rely on HAL layers or abstractions;  
+> I talk directly to the **silicon**.
 
-**[ SYSTEMS & LOW-LEVEL LOGIC ]**<br>
-<img src="https://img.shields.io/badge/Bare--Metal_C-000000?style=for-the-badge&logo=c&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Embedded_Linux-00008B?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_OS-1A1A1A?style=for-the-badge&logo=linux&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Firmware_%26_OTA-000000?style=for-the-badge&logo=hackaday&logoColor=4169E1" />
+My world:  
+- 🛠️ Bare-metal C/C++ for ARM, AVR, MIPS
+- 🌑 Custom FPGA & PCB design (analog/digital, SMPS, timing)
+- 🦾 Embedded Linux, bootloaders, board bring-up
+- 🌐 IoT/OTA, OSI stack, security baked-in  
+- 🔬 DSP, sensors, signal, and circuit heavy-lifting  
 
-**[ NETWORKING, SIGNALS, & SECURITY ]**<br>
-<img src="https://img.shields.io/badge/IoT_%26_OSI_Model-1A1A1A?style=for-the-badge&logo=internetofthings&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/DSP_Processing-000000?style=for-the-badge&logo=audio-spectrum&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Embedded_Security-00008B?style=for-the-badge&logo=kalilinux&logoColor=white" />
+---
+
+ ⫸ `TECH + FUNKY STACK` 
+
+
+<div align="center"> <img src="https://img.shields.io/badge/Bare--metal%20C/C++-4169E1?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/ARM-3DDC84?style=for-the-badge&logo=arm&logoColor=black" /> <img src="https://img.shields.io/badge/AVR-8247BE?style=for-the-badge&logo=microchip&logoColor=white" /> <img src="https://img.shields.io/badge/MIPS-0089C0?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/FPGA-711C91?style=for-the-badge&logo=Xilinx&logoColor=4169E1" /> <img src="https://img.shields.io/badge/PCB%20Design-181A1B?style=for-the-badge&logo=altiumdesigner&logoColor=purple" /> <img src="https://img.shields.io/badge/Analog/Digital-1C2431?style=for-the-badge&logo=probot&logoColor=cyan" /> <img src="https://img.shields.io/badge/SMPS-PURPLE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Embedded%20Linux-00008B?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/IoT%20%26%20OTA-111199?style=for-the-badge&logo=internetofthings&logoColor=orange" /> <img src="https://img.shields.io/badge/OSI%20Stack-7B2FBE?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/DSP-111122?style=for-the-badge&logo=audio-spectrum&logoColor=4169E1" /> <img src="https://img.shields.io/badge/Sensors%2C%20Circuits-1C2431?style=for-the-badge&logo=probot&logoColor=cyan" 
+
+
+
+
+ 
+<td width="25%" valign="top">  
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+<img src="https://img.shields.io/badge/STM32-0D1117?style=for-the-badge&logo=stmicroelectronics&logoColor=00E5FF" />  
+<img src="https://img.shields.io/badge/AVR-0D1117?style=for-the-badge&logo=arduino&logoColor=7DF9FF" />  
+<img src="https://img.shields.io/badge/ARM-0D1117?style=for-the-badge&logo=arm&logoColor=8A63FF" />  
+<img src="https://img.shields.io/badge/FPGA-0D1117?style=for-the-badge&logo=xilinx&logoColor=FF6BF1" />  
+<img src="https://img.shields.io/badge/PCB_Design-0D1117?style=for-the-badge&logo=kicad&logoColor=00FFB2" />  
+<img src="https://img.shields.io/badge/Analog_%2F_Digital-0D1117?style=for-the-badge&logo=semanticscholar&logoColor=7DF9FF" />  
+<img src="https://img.shields.io/badge/SMPS-
+
+
+
+
+
+<table>  
+  <tr>  
+    <td width="15%" align="center" valign="top">  
+       <img src="https://i.redd.it/prww682ozdi91.gif" width="35%" alt="Hacker Witch CRT GIF" style="border-radius:8px;" />  
+
+
+
 
