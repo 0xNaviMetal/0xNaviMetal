@@ -51,16 +51,11 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/FPGA-0D1117?style=for-the-badge&logo=xilinx&logoColor=FF6BF1" />  
 <img src="https://img.shields.io/badge/PCB_Design-0D1117?style=for-the-badge&logo=kicad&logoColor=00FFB2" />  
 <img src="https://img.shields.io/badge/Analog_%2F_Digital-0D1117?style=for-the-badge&logo=semanticscholar&logoColor=7DF9FF" />  
-<img src="https://img.shields.io/badge/SMPS-
+<img src="https://img.shields.io/badge/SMPS- " />  
 
 
 
 
-
-<table>  
-  <tr>  
-    <td width="15%" align="center" valign="top">  
-       <img src="https://i.redd.it/prww682ozdi91.gif" width="35%" alt="Hacker Witch CRT GIF" style="border-radius:8px;" />  
 
 
 
